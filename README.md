@@ -1,4 +1,4 @@
-<img  width="750" align='center' src="img/BannerYL.png"></img>
+<img  width="1500" align='center' src="img/BannerYL.png"></img>
 
 ### Languages
 
