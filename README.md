@@ -1,4 +1,4 @@
-![Head](images/Banner YL)
+![](images/Banner YL)
 
 ### Languages
 
