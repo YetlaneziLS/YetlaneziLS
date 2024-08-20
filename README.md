@@ -13,7 +13,7 @@
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Git](https://img.shields.io/badge/-CSS3-000?&logo=Git)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 
